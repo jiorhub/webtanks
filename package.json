@@ -1,0 +1,12 @@
+{
+	"name": "webtanks",
+	"description": "Web Battle City",
+	"homepage": "http://proslon:8001",
+	"copyright": "Copyright © 2000, Jior",
+	"authors": [
+		"Jior"
+	],
+	"dependencies": {
+        "vibe-d": "~master"
+	}
+}

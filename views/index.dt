@@ -1,0 +1,8 @@
+!!! 5
+html
+    head
+        title Web Battle City
+        link(href="/static/css/layout.css", rel="stylesheet")
+    body
+        div#b-canvas
+        script(src="/static/js/app.js")
